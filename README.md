@@ -4,4 +4,9 @@
 
 ## <b>Programing Basic - Exercises</b>
 1. <a href="#" > First Steps in Coding </a> 
-
+2. <a href="#" > Simple Calculations </a> 
+3. <a href="#" > Simple Conditional Statements </a> 
+4. <a href="#" > Complex Conditional Statements </a> 
+5. <a href="#" > Simple Loops </a> 
+6. <a href="#" > Drawing Figures with Loops </a> 
+7. <a href="#" > Advanced Loops </a> 

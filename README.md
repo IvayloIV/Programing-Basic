@@ -2,6 +2,6 @@
 <hr style="color:#99CC99" />
 
 
-## <b>Exercises</b>
-1. <a href="https://github.com/Tuscann/Programming-Fundamentals-2017/tree/master/01.Short%20Fundamentals/01.RESOURCES" > RESOURCES </a> 
+## <b>Programing Basic - Exercises</b>
+1. <a href="#" > First Steps in Coding </a> 
 

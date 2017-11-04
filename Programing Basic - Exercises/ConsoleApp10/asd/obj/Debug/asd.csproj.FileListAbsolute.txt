@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\asd\bin\Debug\asd.exe.config
+C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\asd\bin\Debug\asd.exe
+C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\asd\bin\Debug\asd.pdb
+C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\asd\obj\Debug\asd.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\asd\obj\Debug\asd.exe
+C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\asd\obj\Debug\asd.pdb

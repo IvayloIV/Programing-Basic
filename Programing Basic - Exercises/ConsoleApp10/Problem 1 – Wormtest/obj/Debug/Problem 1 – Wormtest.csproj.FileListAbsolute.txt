@@ -1,6 +1,0 @@
-C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\Problem 1 – Wormtest\bin\Debug\Problem 1 – Wormtest.exe.config
-C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\Problem 1 – Wormtest\bin\Debug\Problem 1 – Wormtest.exe
-C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\Problem 1 – Wormtest\bin\Debug\Problem 1 – Wormtest.pdb
-C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\Problem 1 – Wormtest\obj\Debug\Problem 1 – Wormtest.csproj.CoreCompileInputs.cache
-C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\Problem 1 – Wormtest\obj\Debug\Problem 1 – Wormtest.exe
-C:\Users\MASTER\Desktop\Visual Studio+\C#\ConsoleApp10\Problem 1 – Wormtest\obj\Debug\Problem 1 – Wormtest.pdb

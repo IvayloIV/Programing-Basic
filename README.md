@@ -10,4 +10,3 @@
 6.  <a href="#" > Drawing Figures with Loops </a> 
 7.  <a href="#" > Advanced Loops </a> 
 
-HaHA

@@ -2,11 +2,11 @@
 
 ---
 ## <b>Programing Basic - Exercises</b>
-1.  <a href="#" > First Steps in Coding </a> 
-2.  <a href="#" > Simple Calculations </a> 
-3.  <a href="#" > Simple Conditional Statements </a> 
-4.  <a href="#" > Complex Conditional Statements </a> 
-5.  <a href="#" > Simple Loops </a> 
-6.  <a href="#" > Drawing Figures with Loops </a> 
-7.  <a href="#" > Advanced Loops </a> 
+1.  <a href="#" > <b>First Steps in Coding</b> </a> 
+2.  <a href="#" > <b>Simple Calculations </b></a> 
+3.  <a href="#" > <b>Simple Conditional Statements</b> </a> 
+4.  <a href="#" > <b>Complex Conditional Statements</b> </a> 
+5.  <a href="#" > <b>Simple Loops</b> </a> 
+6.  <a href="#" > <b>Drawing Figures with Loops</b> </a> 
+7.  <a href="#" > <b>Advanced Loops</b> </a> 
 

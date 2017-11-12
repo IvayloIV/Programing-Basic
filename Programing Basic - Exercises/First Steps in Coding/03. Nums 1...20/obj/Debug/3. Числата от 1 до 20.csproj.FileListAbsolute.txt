@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Hello!\3. Числата от 1 до 20\bin\Debug\_3.Числата_от_1_до_20.exe.config
+C:\Users\Nikolay\Desktop\C#\Hello!\3. Числата от 1 до 20\bin\Debug\_3.Числата_от_1_до_20.exe
+C:\Users\Nikolay\Desktop\C#\Hello!\3. Числата от 1 до 20\bin\Debug\_3.Числата_от_1_до_20.pdb
+C:\Users\Nikolay\Desktop\C#\Hello!\3. Числата от 1 до 20\obj\Debug\3. Числата от 1 до 20.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Hello!\3. Числата от 1 до 20\obj\Debug\_3.Числата_от_1_до_20.exe
+C:\Users\Nikolay\Desktop\C#\Hello!\3. Числата от 1 до 20\obj\Debug\_3.Числата_от_1_до_20.pdb

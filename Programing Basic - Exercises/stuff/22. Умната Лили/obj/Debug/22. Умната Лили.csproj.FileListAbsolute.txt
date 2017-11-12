@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\22. Умната Лили\bin\Debug\_22.Умната_Лили.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\22. Умната Лили\bin\Debug\_22.Умната_Лили.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\22. Умната Лили\bin\Debug\_22.Умната_Лили.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\22. Умната Лили\obj\Debug\22. Умната Лили.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\22. Умната Лили\obj\Debug\_22.Умната_Лили.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\22. Умната Лили\obj\Debug\_22.Умната_Лили.pdb

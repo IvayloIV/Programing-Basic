@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\bin\Debug\_6.Бонус_точки.exe.config
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\bin\Debug\_6.Бонус_точки.exe
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\bin\Debug\_6.Бонус_точки.pdb
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\obj\Debug\6. Бонус точки.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\obj\Debug\6. Бонус точки.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\obj\Debug\_6.Бонус_точки.exe
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\6. Бонус точки\obj\Debug\_6.Бонус_точки.pdb

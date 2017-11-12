@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\10. Half Sum Element\obj\Debug\10. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.pdb

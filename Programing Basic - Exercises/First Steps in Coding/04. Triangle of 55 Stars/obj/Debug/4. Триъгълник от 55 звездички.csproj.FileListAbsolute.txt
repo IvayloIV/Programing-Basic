@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Hello!\4. Триъгълник от 55 звездички\bin\Debug\_4.Триъгълник_от_55_звездички.exe.config
+C:\Users\Nikolay\Desktop\C#\Hello!\4. Триъгълник от 55 звездички\bin\Debug\_4.Триъгълник_от_55_звездички.exe
+C:\Users\Nikolay\Desktop\C#\Hello!\4. Триъгълник от 55 звездички\bin\Debug\_4.Триъгълник_от_55_звездички.pdb
+C:\Users\Nikolay\Desktop\C#\Hello!\4. Триъгълник от 55 звездички\obj\Debug\4. Триъгълник от 55 звездички.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Hello!\4. Триъгълник от 55 звездички\obj\Debug\_4.Триъгълник_от_55_звездички.exe
+C:\Users\Nikolay\Desktop\C#\Hello!\4. Триъгълник от 55 звездички\obj\Debug\_4.Триъгълник_от_55_звездички.pdb

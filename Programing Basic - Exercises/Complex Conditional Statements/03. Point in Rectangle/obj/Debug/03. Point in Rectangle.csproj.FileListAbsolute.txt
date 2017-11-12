@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

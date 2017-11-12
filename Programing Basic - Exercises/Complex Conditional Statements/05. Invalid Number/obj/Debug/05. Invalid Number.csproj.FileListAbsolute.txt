@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe.config
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.pdb
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\05. Invalid Number\obj\Debug\05. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\05. Invalid Number\obj\Debug\_05.Invalid_Number.exe
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\05. Invalid Number\obj\Debug\_05.Invalid_Number.pdb

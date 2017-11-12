@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\18. Цена за транспорт\bin\Debug\_18.Цена_за_транспорт.exe.config
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\18. Цена за транспорт\bin\Debug\_18.Цена_за_транспорт.exe
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\18. Цена за транспорт\bin\Debug\_18.Цена_за_транспорт.pdb
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\18. Цена за транспорт\obj\Debug\18. Цена за транспорт.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\18. Цена за транспорт\obj\Debug\_18.Цена_за_транспорт.exe
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\18. Цена за транспорт\obj\Debug\_18.Цена_за_транспорт.pdb

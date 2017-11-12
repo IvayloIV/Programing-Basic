@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.pdb

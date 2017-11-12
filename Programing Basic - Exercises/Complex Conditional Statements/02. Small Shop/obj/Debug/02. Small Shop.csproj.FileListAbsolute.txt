@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\02. Small Shop\obj\Debug\02. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+C:\Users\Nikolay\Desktop\C#\Complex Conditional Statements\02. Small Shop\obj\Debug\_02.Small_Shop.pdb

@@ -1,6 +1,0 @@
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\03. Latin Letters\obj\Debug\03. Latin Letters.csproj.CoreCompileInputs.cache
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

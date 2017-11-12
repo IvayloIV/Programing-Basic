@@ -1,6 +1,0 @@
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csproj.CoreCompileInputs.cache
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

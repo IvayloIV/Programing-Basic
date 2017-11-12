@@ -1,6 +1,0 @@
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe.config
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.pdb
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\02. Numbers Ending in 7\obj\Debug\02. Numbers Ending in 7.csproj.CoreCompileInputs.cache
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.exe
-C:\Users\MASTER\Desktop\C# (1)\Simple Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.pdb

@@ -1,6 +1,0 @@
-C:\Users\Nikolay\Desktop\C#\Hello!\6.  Квадрат от звездички\bin\Debug\_6.Квадрат_от_звездички.exe.config
-C:\Users\Nikolay\Desktop\C#\Hello!\6.  Квадрат от звездички\bin\Debug\_6.Квадрат_от_звездички.exe
-C:\Users\Nikolay\Desktop\C#\Hello!\6.  Квадрат от звездички\bin\Debug\_6.Квадрат_от_звездички.pdb
-C:\Users\Nikolay\Desktop\C#\Hello!\6.  Квадрат от звездички\obj\Debug\6.  Квадрат от звездички.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\Desktop\C#\Hello!\6.  Квадрат от звездички\obj\Debug\_6.Квадрат_от_звездички.exe
-C:\Users\Nikolay\Desktop\C#\Hello!\6.  Квадрат от звездички\obj\Debug\_6.Квадрат_от_звездички.pdb

@@ -1,6 +1,0 @@
-C:\Users\Nikolay\Desktop\C#\Hello!\2. Конзолна програма “Expression”\bin\Debug\_2.Конзолна_програма__Expression_.exe.config
-C:\Users\Nikolay\Desktop\C#\Hello!\2. Конзолна програма “Expression”\bin\Debug\_2.Конзолна_програма__Expression_.exe
-C:\Users\Nikolay\Desktop\C#\Hello!\2. Конзолна програма “Expression”\bin\Debug\_2.Конзолна_програма__Expression_.pdb
-C:\Users\Nikolay\Desktop\C#\Hello!\2. Конзолна програма “Expression”\obj\Debug\2. Конзолна програма “Expression”.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\Desktop\C#\Hello!\2. Конзолна програма “Expression”\obj\Debug\_2.Конзолна_програма__Expression_.exe
-C:\Users\Nikolay\Desktop\C#\Hello!\2. Конзолна програма “Expression”\obj\Debug\_2.Конзолна_програма__Expression_.pdb

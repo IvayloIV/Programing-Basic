@@ -1,7 +1,0 @@
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\bin\Debug\Hello!.exe.config
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\bin\Debug\Hello!.exe
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\bin\Debug\Hello!.pdb
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\obj\Debug\Hello!.csprojResolveAssemblyReference.cache
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\obj\Debug\Hello!.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\obj\Debug\Hello!.exe
-C:\Users\Nikolay\Desktop\C#\Hello!\Hello!\obj\Debug\Hello!.pdb

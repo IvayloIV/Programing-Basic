@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\15. Еднакви 3 числа\bin\Debug\_15.Еднакви_3_числа.exe.config
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\15. Еднакви 3 числа\bin\Debug\_15.Еднакви_3_числа.exe
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\15. Еднакви 3 числа\bin\Debug\_15.Еднакви_3_числа.pdb
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\15. Еднакви 3 числа\obj\Debug\15. Еднакви 3 числа.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\15. Еднакви 3 числа\obj\Debug\_15.Еднакви_3_числа.exe
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\15. Еднакви 3 числа\obj\Debug\_15.Еднакви_3_числа.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\11. Еднакви думи\bin\Debug\_11.Еднакви_думи.exe.config
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\11. Еднакви думи\bin\Debug\_11.Еднакви_думи.exe
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\11. Еднакви думи\bin\Debug\_11.Еднакви_думи.pdb
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\11. Еднакви думи\obj\Debug\11. Еднакви думи.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\11. Еднакви думи\obj\Debug\_11.Еднакви_думи.exe
+C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\11. Еднакви думи\obj\Debug\_11.Еднакви_думи.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\bin\Debug\_13.Лица_на_фигури.exe.config
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\bin\Debug\_13.Лица_на_фигури.exe
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\bin\Debug\_13.Лица_на_фигури.pdb
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\obj\Debug\13. Лица на фигури.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\obj\Debug\13. Лица на фигури.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\obj\Debug\_13.Лица_на_фигури.exe
+C:\Users\Nikolay\Desktop\C#\13. Лица на фигури\13. Лица на фигури\obj\Debug\_13.Лица_на_фигури.pdb

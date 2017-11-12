@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Hello!\5. Лице на правоъгълник\bin\Debug\_5.Лице_на_правоъгълник.exe.config
+C:\Users\Nikolay\Desktop\C#\Hello!\5. Лице на правоъгълник\bin\Debug\_5.Лице_на_правоъгълник.exe
+C:\Users\Nikolay\Desktop\C#\Hello!\5. Лице на правоъгълник\bin\Debug\_5.Лице_на_правоъгълник.pdb
+C:\Users\Nikolay\Desktop\C#\Hello!\5. Лице на правоъгълник\obj\Debug\5. Лице на правоъгълник.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Hello!\5. Лице на правоъгълник\obj\Debug\_5.Лице_на_правоъгълник.exe
+C:\Users\Nikolay\Desktop\C#\Hello!\5. Лице на правоъгълник\obj\Debug\_5.Лице_на_правоъгълник.pdb

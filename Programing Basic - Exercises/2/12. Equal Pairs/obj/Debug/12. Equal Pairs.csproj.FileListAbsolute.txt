@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\12. Equal Pairs\obj\Debug\12. Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.pdb

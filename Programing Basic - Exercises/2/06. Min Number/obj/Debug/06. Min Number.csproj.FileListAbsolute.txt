@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\06. Min Number\obj\Debug\06. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\06. Min Number\obj\Debug\_06.Min_Number.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\06. Min Number\obj\Debug\_06.Min_Number.pdb

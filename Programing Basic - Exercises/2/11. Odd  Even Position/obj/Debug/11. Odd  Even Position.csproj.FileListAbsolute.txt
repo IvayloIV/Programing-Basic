@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\11. Odd  Even Position\bin\Debug\_11.Odd__Even_Position.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\11. Odd  Even Position\bin\Debug\_11.Odd__Even_Position.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\11. Odd  Even Position\bin\Debug\_11.Odd__Even_Position.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\11. Odd  Even Position\obj\Debug\11. Odd  Even Position.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\11. Odd  Even Position\obj\Debug\_11.Odd__Even_Position.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\11. Odd  Even Position\obj\Debug\_11.Odd__Even_Position.pdb

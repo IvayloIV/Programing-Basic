@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

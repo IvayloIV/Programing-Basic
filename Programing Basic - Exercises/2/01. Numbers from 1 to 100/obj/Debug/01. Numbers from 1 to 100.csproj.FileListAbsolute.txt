@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\bin\Debug\Simple Loops.exe.config
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\bin\Debug\Simple Loops.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\bin\Debug\Simple Loops.pdb
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\obj\Debug\01. Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\obj\Debug\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\obj\Debug\Simple Loops.exe
+C:\Users\MASTER\Desktop\C# (1)\Simple Loops\Simple Loops\obj\Debug\Simple Loops.pdb

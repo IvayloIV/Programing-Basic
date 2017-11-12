@@ -1,6 +1,0 @@
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\10. Число от 100 до 200\bin\Debug\_10.Число_от_100_до_200.exe.config
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\10. Число от 100 до 200\bin\Debug\_10.Число_от_100_до_200.exe
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\10. Число от 100 до 200\bin\Debug\_10.Число_от_100_до_200.pdb
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\10. Число от 100 до 200\obj\Debug\10. Число от 100 до 200.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\10. Число от 100 до 200\obj\Debug\_10.Число_от_100_до_200.exe
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\10. Число от 100 до 200\obj\Debug\_10.Число_от_100_до_200.pdb

@@ -1,6 +1,0 @@
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\7. Сумиране на секунди2\bin\Debug\_7.Сумиране_на_секунди2.exe.config
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\7. Сумиране на секунди2\bin\Debug\_7.Сумиране_на_секунди2.exe
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\7. Сумиране на секунди2\bin\Debug\_7.Сумиране_на_секунди2.pdb
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\7. Сумиране на секунди2\obj\Debug\7. Сумиране на секунди2.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\7. Сумиране на секунди2\obj\Debug\_7.Сумиране_на_секунди2.exe
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\7. Сумиране на секунди2\obj\Debug\_7.Сумиране_на_секунди2.pdb

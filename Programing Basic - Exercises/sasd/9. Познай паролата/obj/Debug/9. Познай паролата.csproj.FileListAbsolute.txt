@@ -1,6 +1,0 @@
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\9. Познай паролата\bin\Debug\_9.Познай_паролата.exe.config
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\9. Познай паролата\bin\Debug\_9.Познай_паролата.exe
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\9. Познай паролата\bin\Debug\_9.Познай_паролата.pdb
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\9. Познай паролата\obj\Debug\9. Познай паролата.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\9. Познай паролата\obj\Debug\_9.Познай_паролата.exe
-C:\Users\Nikolay\Desktop\C#\1. Проверка за отлична оценка\9. Познай паролата\obj\Debug\_9.Познай_паролата.pdb

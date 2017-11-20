@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.pdb

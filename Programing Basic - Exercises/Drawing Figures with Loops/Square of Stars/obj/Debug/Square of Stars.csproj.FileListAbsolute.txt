@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.pdb

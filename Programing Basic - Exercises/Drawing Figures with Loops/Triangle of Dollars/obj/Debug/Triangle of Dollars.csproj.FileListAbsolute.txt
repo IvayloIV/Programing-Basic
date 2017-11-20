@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\4. Триъгълник от долари\bin\Debug\_4.Триъгълник_от_долари.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\4. Триъгълник от долари\bin\Debug\_4.Триъгълник_от_долари.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\4. Триъгълник от долари\bin\Debug\_4.Триъгълник_от_долари.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\4. Триъгълник от долари\obj\Debug\Triangle of Dollars.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\4. Триъгълник от долари\obj\Debug\_4.Триъгълник_от_долари.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Drawing Figures with Loops\4. Триъгълник от долари\obj\Debug\_4.Триъгълник_от_долари.pdb

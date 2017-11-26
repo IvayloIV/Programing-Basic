@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\10. Check Prime\obj\Debug\10. Check Prime.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

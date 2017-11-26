@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\12. Fibonacci\obj\Debug\12. Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

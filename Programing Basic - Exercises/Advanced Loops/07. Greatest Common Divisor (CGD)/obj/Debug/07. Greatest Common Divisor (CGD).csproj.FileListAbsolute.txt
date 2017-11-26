@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.pdb

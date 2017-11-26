@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\bin\Debug\06.The song of the wheels.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\bin\Debug\06.The song of the wheels.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\bin\Debug\06.The song of the wheels.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\obj\Debug\06.The song of the wheels.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\obj\Debug\06.The song of the wheels.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\obj\Debug\06.The song of the wheels.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\obj\Debug\06.The song of the wheels.pdb

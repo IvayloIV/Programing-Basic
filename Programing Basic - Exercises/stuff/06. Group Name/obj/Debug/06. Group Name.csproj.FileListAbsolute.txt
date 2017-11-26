@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\06. Group Name\bin\Debug\_06.Group_Name.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\06. Group Name\bin\Debug\_06.Group_Name.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\06. Group Name\bin\Debug\_06.Group_Name.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\06. Group Name\obj\Debug\06. Group Name.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\06. Group Name\obj\Debug\_06.Group_Name.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.The song of the wheels\06. Group Name\obj\Debug\_06.Group_Name.pdb

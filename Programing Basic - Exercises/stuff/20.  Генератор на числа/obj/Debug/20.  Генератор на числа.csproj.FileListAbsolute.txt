@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\20.  Генератор на числа\bin\Debug\_20.Генератор_на_числа.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\20.  Генератор на числа\bin\Debug\_20.Генератор_на_числа.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\20.  Генератор на числа\bin\Debug\_20.Генератор_на_числа.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\20.  Генератор на числа\obj\Debug\20.  Генератор на числа.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\20.  Генератор на числа\obj\Debug\_20.Генератор_на_числа.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\20.  Генератор на числа\obj\Debug\_20.Генератор_на_числа.pdb

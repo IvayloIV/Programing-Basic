@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.Сбор или Произведение\bin\Debug\06.Сбор или Произведение.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.Сбор или Произведение\bin\Debug\06.Сбор или Произведение.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.Сбор или Произведение\bin\Debug\06.Сбор или Произведение.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programing Basic - Exercises\stuff\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.pdb

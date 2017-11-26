@@ -8,5 +8,5 @@
 4.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programing%20Basic%20-%20Exercises/Complex%20Conditional%20Statements" > <b>Complex Conditional Statements</b> </a> 
 5.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programing%20Basic%20-%20Exercises/Simple%20Loops" > <b>Simple Loops</b> </a> 
 6.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programing%20Basic%20-%20Exercises/Drawing%20Figures%20with%20Loops" > <b>Drawing Figures with Loops</b> </a> 
-7.  <a href="#" > <b>Advanced Loops</b> </a> 
+7.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programing%20Basic%20-%20Exercises/Advanced%20Loops" > <b>Advanced Loops</b> </a> 
 

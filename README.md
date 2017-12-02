@@ -10,3 +10,5 @@
 6.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programing%20Basic%20-%20Exercises/Drawing%20Figures%20with%20Loops" > <b>Drawing Figures with Loops</b> </a> 
 7.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programing%20Basic%20-%20Exercises/Advanced%20Loops" > <b>Advanced Loops</b> </a> 
 
+## <b>Programming Basics - Exams</b>
+1.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Coding%20101%20Exam%20-%206%20March%202016" > <b>Coding 101 Exam - 6 March 2016</b> </a> 

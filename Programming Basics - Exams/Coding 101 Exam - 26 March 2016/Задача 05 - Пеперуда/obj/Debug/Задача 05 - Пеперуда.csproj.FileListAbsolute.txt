@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\bin\Debug\Задача 05 - Пеперуда.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\bin\Debug\Задача 05 - Пеперуда.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\bin\Debug\Задача 05 - Пеперуда.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\obj\Debug\Задача 05 - Пеперуда.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\obj\Debug\Задача 05 - Пеперуда.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 26 March 2016\Задача 05 - Пеперуда\obj\Debug\Задача 05 - Пеперуда.pdb

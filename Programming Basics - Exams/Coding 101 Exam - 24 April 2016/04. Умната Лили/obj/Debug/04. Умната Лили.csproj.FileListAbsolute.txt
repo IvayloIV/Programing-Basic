@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\obj\Debug\04. Умната Лили.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\obj\Debug\04. Умната Лили.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\obj\Debug\_04.Умната_Лили.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\04. Умната Лили\obj\Debug\_04.Умната_Лили.pdb

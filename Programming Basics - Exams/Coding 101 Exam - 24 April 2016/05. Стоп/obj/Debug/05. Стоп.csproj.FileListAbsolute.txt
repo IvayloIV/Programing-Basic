@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\bin\Debug\_05.Стоп.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\bin\Debug\_05.Стоп.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\bin\Debug\_05.Стоп.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\obj\Debug\05. Стоп.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\obj\Debug\05. Стоп.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\obj\Debug\_05.Стоп.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\05. Стоп\obj\Debug\_05.Стоп.pdb

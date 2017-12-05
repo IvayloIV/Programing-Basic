@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\Задача 6. Специални числа\bin\Debug\Задача_6.Специални_числа.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\Задача 6. Специални числа\bin\Debug\Задача_6.Специални_числа.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\Задача 6. Специални числа\bin\Debug\Задача_6.Специални_числа.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\Задача 6. Специални числа\obj\Debug\Задача 6. Специални числа.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\Задача 6. Специални числа\obj\Debug\Задача_6.Специални_числа.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\Задача 6. Специални числа\obj\Debug\Задача_6.Специални_числа.pdb

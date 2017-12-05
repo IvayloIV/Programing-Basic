@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\obj\Debug\03. Операции между числа.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\obj\Debug\03. Операции между числа.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\obj\Debug\_03.Операции_между_числа.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Coding 101 Exam - 24 April 2016\03. Операции между числа\obj\Debug\_03.Операции_между_числа.pdb

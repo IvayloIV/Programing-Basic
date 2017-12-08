@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.pdb

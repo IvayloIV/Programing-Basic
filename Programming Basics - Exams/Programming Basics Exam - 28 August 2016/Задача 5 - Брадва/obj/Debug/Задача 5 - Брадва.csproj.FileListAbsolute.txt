@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\bin\Debug\Задача 5 - Брадва.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\bin\Debug\Задача 5 - Брадва.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\bin\Debug\Задача 5 - Брадва.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\obj\Debug\Задача 5 - Брадва.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\obj\Debug\Задача 5 - Брадва.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 28 August 2016\Задача 5 - Брадва\obj\Debug\Задача 5 - Брадва.pdb

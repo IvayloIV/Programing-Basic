@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\05. Fox.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\05. Fox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\bin\Debug\_02.Flower_Shop.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\bin\Debug\_02.Flower_Shop.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\obj\Debug\02. Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\obj\Debug\_02.Flower_Shop.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 20 November 2016 - Evening\02. Flower Shop\obj\Debug\_02.Flower_Shop.pdb

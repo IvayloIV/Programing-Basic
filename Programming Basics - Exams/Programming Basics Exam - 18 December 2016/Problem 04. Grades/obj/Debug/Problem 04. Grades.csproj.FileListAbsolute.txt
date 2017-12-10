@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem 04. Grades.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem 04. Grades.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.pdb

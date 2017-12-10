@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\bin\Debug\Problem_02.Change_Tiles.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\bin\Debug\Problem_02.Change_Tiles.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\bin\Debug\Problem_02.Change_Tiles.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\obj\Debug\Problem 02. Change Tiles.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\obj\Debug\Problem 02. Change Tiles.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\obj\Debug\Problem_02.Change_Tiles.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 18 December 2016\Problem 02. Change Tiles\obj\Debug\Problem_02.Change_Tiles.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - Grape and Rakia", "Problem 01 - Grape and Rakia.csproj", "{86C9320C-DCFF-4F91-9DB0-7DE31DEC1430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02 - Styrofoam", "..\Problem 02 - Styrofoam\Problem 02 - Styrofoam.csproj", "{B8346433-9E47-4378-9BDD-AF546FE0E610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 03 - Truck Driver", "..\Problem 03 - Truck Driver\Problem 03 - Truck Driver.csproj", "{B71C05F3-D25E-4B40-9EE0-D6193217F679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 04 - Bills", "..\Problem 04 - Bills\Problem 04 - Bills.csproj", "{E8BA32A7-C257-4260-835F-86B750A63AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 05 - Parallelepiped", "..\Problem 05 - Parallelepiped\Problem 05 - Parallelepiped.csproj", "{C2CB352A-1C67-4F70-ACC7-26DF9D77FEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 06 - Control Number", "..\Problem 06 - Control Number\Problem 06 - Control Number.csproj", "{5D5F5A40-3874-46D4-B37F-7130D10E51A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C9320C-DCFF-4F91-9DB0-7DE31DEC1430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C9320C-DCFF-4F91-9DB0-7DE31DEC1430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C9320C-DCFF-4F91-9DB0-7DE31DEC1430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C9320C-DCFF-4F91-9DB0-7DE31DEC1430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8346433-9E47-4378-9BDD-AF546FE0E610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8346433-9E47-4378-9BDD-AF546FE0E610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8346433-9E47-4378-9BDD-AF546FE0E610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8346433-9E47-4378-9BDD-AF546FE0E610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71C05F3-D25E-4B40-9EE0-D6193217F679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71C05F3-D25E-4B40-9EE0-D6193217F679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71C05F3-D25E-4B40-9EE0-D6193217F679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71C05F3-D25E-4B40-9EE0-D6193217F679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BA32A7-C257-4260-835F-86B750A63AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BA32A7-C257-4260-835F-86B750A63AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BA32A7-C257-4260-835F-86B750A63AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BA32A7-C257-4260-835F-86B750A63AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CB352A-1C67-4F70-ACC7-26DF9D77FEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CB352A-1C67-4F70-ACC7-26DF9D77FEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CB352A-1C67-4F70-ACC7-26DF9D77FEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CB352A-1C67-4F70-ACC7-26DF9D77FEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5F5A40-3874-46D4-B37F-7130D10E51A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5F5A40-3874-46D4-B37F-7130D10E51A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5F5A40-3874-46D4-B37F-7130D10E51A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5F5A40-3874-46D4-B37F-7130D10E51A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EE3C27-71C9-49B2-B625-DA074285ED46}
+	EndGlobalSection
+EndGlobal

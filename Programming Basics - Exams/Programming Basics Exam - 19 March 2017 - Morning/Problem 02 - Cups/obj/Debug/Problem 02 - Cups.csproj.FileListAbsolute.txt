@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\bin\Debug\Problem 02 - Cups.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Morning\Problem 02 - Cups\obj\Debug\Problem 02 - Cups.pdb

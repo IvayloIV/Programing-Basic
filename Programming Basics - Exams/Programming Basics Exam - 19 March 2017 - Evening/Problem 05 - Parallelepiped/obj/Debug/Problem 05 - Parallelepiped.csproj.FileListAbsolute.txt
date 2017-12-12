@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\bin\Debug\Problem 05 - Parallelepiped.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\bin\Debug\Problem 05 - Parallelepiped.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\bin\Debug\Problem 05 - Parallelepiped.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\obj\Debug\Problem 05 - Parallelepiped.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\obj\Debug\Problem 05 - Parallelepiped.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 19 March 2017 - Evening\Problem 05 - Parallelepiped\obj\Debug\Problem 05 - Parallelepiped.pdb

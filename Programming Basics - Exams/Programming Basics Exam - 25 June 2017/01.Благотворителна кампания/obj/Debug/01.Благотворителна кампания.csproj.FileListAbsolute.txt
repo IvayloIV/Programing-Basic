@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\bin\Debug\01.Благотворителна кампания.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\bin\Debug\01.Благотворителна кампания.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\bin\Debug\01.Благотворителна кампания.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\obj\Debug\01.Благотворителна кампания.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\obj\Debug\01.Благотворителна кампания.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\obj\Debug\01.Благотворителна кампания.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 25 June 2017\01.Благотворителна кампания\obj\Debug\01.Благотворителна кампания.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\04. Cake\bin\Debug\_04.Cake.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\04. Cake\bin\Debug\_04.Cake.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\04. Cake\bin\Debug\_04.Cake.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\04. Cake\obj\Debug\04. Cake.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\04. Cake\obj\Debug\_04.Cake.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\04. Cake\obj\Debug\_04.Cake.pdb

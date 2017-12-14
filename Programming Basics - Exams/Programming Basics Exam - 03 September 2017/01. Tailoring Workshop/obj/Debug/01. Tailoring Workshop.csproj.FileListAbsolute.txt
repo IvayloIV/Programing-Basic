@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\bin\Debug\_01.Tailoring_Workshop.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\bin\Debug\_01.Tailoring_Workshop.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\bin\Debug\_01.Tailoring_Workshop.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\obj\Debug\01. Tailoring Workshop.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\obj\Debug\01. Tailoring Workshop.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\obj\Debug\_01.Tailoring_Workshop.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 03 September 2017\01. Tailoring Workshop\obj\Debug\_01.Tailoring_Workshop.pdb

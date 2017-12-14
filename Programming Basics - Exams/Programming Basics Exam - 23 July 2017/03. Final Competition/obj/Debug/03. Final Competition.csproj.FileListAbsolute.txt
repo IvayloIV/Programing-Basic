@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\bin\Debug\_03.Final_Competition.exe.config
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\bin\Debug\_03.Final_Competition.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\bin\Debug\_03.Final_Competition.pdb
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\obj\Debug\03. Final Competition.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\obj\Debug\03. Final Competition.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\obj\Debug\_03.Final_Competition.exe
+C:\Users\MASTER\Desktop\Programing-Basic\Programming Basics - Exams\Programming Basics Exam - 23 July 2017\03. Final Competition\obj\Debug\_03.Final_Competition.pdb

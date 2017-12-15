@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\02.Lutenitsa\bin\Debug\02.Lutenitsa.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\02.Lutenitsa\bin\Debug\02.Lutenitsa.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\02.Lutenitsa\bin\Debug\02.Lutenitsa.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\02.Lutenitsa\obj\Debug\02.Lutenitsa.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\02.Lutenitsa\obj\Debug\02.Lutenitsa.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\02.Lutenitsa\obj\Debug\02.Lutenitsa.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\05.Java\bin\Debug\05.Java.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\05.Java\bin\Debug\05.Java.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\05.Java\bin\Debug\05.Java.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\05.Java\obj\Debug\05.Java.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\05.Java\obj\Debug\05.Java.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\05.Java\obj\Debug\05.Java.pdb

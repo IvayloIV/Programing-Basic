@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\06.Lucky Numbers\bin\Debug\06.Lucky Numbers.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\06.Lucky Numbers\bin\Debug\06.Lucky Numbers.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\06.Lucky Numbers\bin\Debug\06.Lucky Numbers.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\06.Lucky Numbers\obj\Debug\06.Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\06.Lucky Numbers\obj\Debug\06.Lucky Numbers.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\06.Lucky Numbers\obj\Debug\06.Lucky Numbers.pdb

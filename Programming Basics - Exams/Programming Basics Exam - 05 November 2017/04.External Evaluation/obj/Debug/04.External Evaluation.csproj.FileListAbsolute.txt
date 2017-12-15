@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.pdb

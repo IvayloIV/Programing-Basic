@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\bin\Debug\01.Wire Net.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\bin\Debug\01.Wire Net.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\bin\Debug\01.Wire Net.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\obj\Debug\01.Wire Net.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\obj\Debug\01.Wire Net.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\obj\Debug\01.Wire Net.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 05 November 2017\01.Wire Net\obj\Debug\01.Wire Net.pdb

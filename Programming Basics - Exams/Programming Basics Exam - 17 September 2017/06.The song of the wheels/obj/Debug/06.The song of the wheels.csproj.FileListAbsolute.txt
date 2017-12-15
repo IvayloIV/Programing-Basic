@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\06.The song of the wheels\bin\Debug\06.The song of the wheels.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\06.The song of the wheels\bin\Debug\06.The song of the wheels.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\06.The song of the wheels\bin\Debug\06.The song of the wheels.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\06.The song of the wheels\obj\Debug\06.The song of the wheels.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\06.The song of the wheels\obj\Debug\06.The song of the wheels.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\06.The song of the wheels\obj\Debug\06.The song of the wheels.pdb

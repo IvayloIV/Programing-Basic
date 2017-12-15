@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\03.Mobile operator\bin\Debug\03.Mobile operator.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\03.Mobile operator\bin\Debug\03.Mobile operator.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\03.Mobile operator\bin\Debug\03.Mobile operator.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\03.Mobile operator\obj\Debug\03.Mobile operator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\03.Mobile operator\obj\Debug\03.Mobile operator.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 17 September 2017\03.Mobile operator\obj\Debug\03.Mobile operator.pdb

@@ -28,3 +28,4 @@
 15.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2003%20September%202017" > <b>Programming Basics Exam - 03 September 2017</b> </a> 
 16.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2017%20September%202017" > <b>Programming Basics Exam - 17 September 2017</b> </a> 
 17.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2005%20November%202017" > <b>Programming Basics Exam - 05 November 2017</b> </a> 
+18.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2016%20December%202017" > <b>Programming Basics Exam - 16 December 2017</b> </a> 

@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\03. Santas Holiday\bin\Debug\_03.Santas_Holiday.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\03. Santas Holiday\bin\Debug\_03.Santas_Holiday.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\03. Santas Holiday\bin\Debug\_03.Santas_Holiday.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\03. Santas Holiday\obj\Debug\03. Santas Holiday.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\03. Santas Holiday\obj\Debug\_03.Santas_Holiday.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\03. Santas Holiday\obj\Debug\_03.Santas_Holiday.pdb

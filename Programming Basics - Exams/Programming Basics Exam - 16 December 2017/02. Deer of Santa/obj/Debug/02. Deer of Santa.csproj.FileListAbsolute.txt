@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\02. Deer of Santa\bin\Debug\_02.Deer_of_Santa.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\02. Deer of Santa\bin\Debug\_02.Deer_of_Santa.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\02. Deer of Santa\bin\Debug\_02.Deer_of_Santa.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\02. Deer of Santa\obj\Debug\02. Deer of Santa.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\02. Deer of Santa\obj\Debug\_02.Deer_of_Santa.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\02. Deer of Santa\obj\Debug\_02.Deer_of_Santa.pdb

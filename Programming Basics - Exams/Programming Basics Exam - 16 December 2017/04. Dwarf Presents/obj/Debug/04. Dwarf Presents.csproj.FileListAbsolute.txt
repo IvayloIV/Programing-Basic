@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\04. Dwarf Presents\bin\Debug\_04.Dwarf_Presents.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\04. Dwarf Presents\bin\Debug\_04.Dwarf_Presents.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\04. Dwarf Presents\bin\Debug\_04.Dwarf_Presents.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\04. Dwarf Presents\obj\Debug\04. Dwarf Presents.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\04. Dwarf Presents\obj\Debug\_04.Dwarf_Presents.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\04. Dwarf Presents\obj\Debug\_04.Dwarf_Presents.pdb

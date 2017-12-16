@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\06. Barcode Generator\bin\Debug\_06.Barcode_Generator.exe.config
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\06. Barcode Generator\bin\Debug\_06.Barcode_Generator.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\06. Barcode Generator\bin\Debug\_06.Barcode_Generator.pdb
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\06. Barcode Generator\obj\Debug\06. Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\06. Barcode Generator\obj\Debug\_06.Barcode_Generator.exe
+C:\Users\Nikolay\Desktop\C#\Programming Basics Exam - 16 December 2017\06. Barcode Generator\obj\Debug\_06.Barcode_Generator.pdb

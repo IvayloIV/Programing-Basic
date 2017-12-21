@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.exe.config
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.exe
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.pdb
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\02. New Years Eve Party\obj\Debug\02. New Years Eve Party.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\02. New Years Eve Party\obj\Debug\_02.New_Years_Eve_Party.exe
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\02. New Years Eve Party\obj\Debug\_02.New_Years_Eve_Party.pdb

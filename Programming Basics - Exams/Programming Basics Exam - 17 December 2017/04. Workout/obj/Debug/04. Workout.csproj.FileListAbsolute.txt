@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\04. Workout\bin\Debug\_04.Workout.exe.config
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\04. Workout\bin\Debug\_04.Workout.exe
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\04. Workout\bin\Debug\_04.Workout.pdb
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\04. Workout\obj\Debug\04. Workout.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\04. Workout\obj\Debug\_04.Workout.exe
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\04. Workout\obj\Debug\_04.Workout.pdb

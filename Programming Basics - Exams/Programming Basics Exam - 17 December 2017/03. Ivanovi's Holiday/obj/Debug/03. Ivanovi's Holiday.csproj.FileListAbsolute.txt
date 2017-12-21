@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.exe.config
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.exe
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.pdb
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\obj\Debug\03. Ivanovi's Holiday.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\obj\Debug\03. Ivanovi's Holiday.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\obj\Debug\_03.Ivanovi_s_Holiday.exe
+C:\Users\MASTER\Desktop\Programming Basics Exam - 17 December 2017\03. Ivanovi's Holiday\obj\Debug\_03.Ivanovi_s_Holiday.pdb

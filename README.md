@@ -1,4 +1,4 @@
-<a href="#"><img src="https://www.jobs.bg/assets/logo/2017-09-01/b_6e048c01c340d967f2a6e540e9825d46.png" width="1000" height="200" ></img></a>
+<a href="#"><img src="https://i.imgur.com/GvHn3H9.png" width="1000" height="200" ></img></a>
 
 ---
 ## <b>Programing Basic - Exercises</b>
@@ -29,3 +29,4 @@
 16.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2017%20September%202017" > <b>Programming Basics Exam - 17 September 2017</b> </a> 
 17.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2005%20November%202017" > <b>Programming Basics Exam - 05 November 2017</b> </a> 
 18.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2016%20December%202017" > <b>Programming Basics Exam - 16 December 2017</b> </a> 
+19.  <a href="https://github.com/IvayloIV/Programing-Basic/tree/master/Programming%20Basics%20-%20Exams/Programming%20Basics%20Exam%20-%2016%20December%202017" > <b>Programming Basics Exam - 17 December 2017</b> </a> 
